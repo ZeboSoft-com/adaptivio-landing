@@ -5,7 +5,7 @@ const Survey = () => {
         Share Your Experience
       </h2>
 
-      <p className="text-gray-500 max-w-lg mb-8">
+      <p className="text-gray-500 max-w-lg mb-8 text-left">
         Take 5 minutes to share your vision! Your feedback is essential for
         developing a practical HR solution that maximizes your impact and
         simplifies your everyday work.

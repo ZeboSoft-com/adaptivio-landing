@@ -2,7 +2,7 @@ import Ipad_Mockup from "../assets/Ipad_Mockup.png";
 
 const About = () => {
   return (
-    <section className="flex flex-col md:flex-row items-center gap-12 px-16 py-20 bg-white">
+    <section className="flex flex-col md:flex-row items-center gap-12 px-6 md:px-16 py-20 bg-white">
       <div className="flex-1">
         <h2 className="text-3xl font-bold text-gray-900 mb-4">
           About Adaptivio
